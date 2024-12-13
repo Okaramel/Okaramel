@@ -26,4 +26,4 @@ Web developper student, I am working on differents projects that I think are int
 
 ## Contact Me !
 Mail : morell.mathilde74@gmail.com
-LinkedIn : <a>https://www.linkedin.com/in/mathilde-morell-146120290/</a>
+LinkedIn : <a src="https://www.linkedin.com/in/mathilde-morell-146120290/">LinkedIn</a>
